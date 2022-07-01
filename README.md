@@ -1,7 +1,7 @@
 ## **Projet FullStack JS** 
 #### **Jerome DE VIVO - Adrien BLAY**
 
-### ** Installation de l’application :** 
+### **Installation de l’application :** 
 - npm install 
 - npm start
 
