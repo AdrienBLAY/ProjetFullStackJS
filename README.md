@@ -52,7 +52,7 @@ Ensuite retourner sur la page d’accueil et rentrez vos identifiants.
 |/#/search	|	|Pour faire des recherches (topic, article)
 |/#/setup	|	|Pour créer un utilisateur
 
-### **6.	LISTE DES DONNÉES**
+### **5.	LISTE DES DONNÉES**
 Il y a quatre tables : 
 -	archives :  id / article_id / title / body / updated_at / user_id / what_changed
 -	articles : id / title / body / created_at / updated_at / topic_id / user_id / what_changed
