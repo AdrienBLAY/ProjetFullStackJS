@@ -1,11 +1,13 @@
 ## **Projet FullStack JS** 
 #### **Jerome DE VIVO - Adrien BLAY**
 
-### **1. Installation de l’application :** 
+### ** Installation de l’application :** 
 - npm install 
 - npm start
 
-### **2. VERSIONS**
+## **Contrat d'interface**
+
+### **1. VERSIONS**
 
 |Version|Date|Modifications|
 |:-:|:-:|:-:|
@@ -14,7 +16,8 @@
 |1.5|	30/06/2002|	Création du projet|
 |1.0|	29/06/2022|	Première version
 
-### **3. PRÉSENTATION DE L’API** 
+### **2. PRÉSENTATION DE L’API** 
+
 Notre API est un outil qui permet de créer différents articles internet, de les ranger avec des tags (topics) et de pouvoir les gérer grâce à un utilisateur créé auparavant. 
 Il y a la possibilité de créer, de modifier, de voir l’historique et de voir tous les articles.
 Au niveau des tags, on pourra éditer et créer des tags et de les lier à un article. 
@@ -24,7 +27,8 @@ Une création d’utilisateur pour se connecter à l’API, on pourra plus tard 
 ![Schema](https://user-images.githubusercontent.com/26253939/176963306-27a5cfdd-52d0-44a8-aff3-e7a58273cce7.png)
 
 
-### **4. AUTHENTIFICATION**
+### **3. AUTHENTIFICATION**
+
 L’accès à l’API est protégé et restreint aux utilisateurs authentifiés. L’authentification, de type « basique » s’effectue par l’intermédiaire d’un login et d’un mot de passe.
 Pour créer un nouvel utilisateur, il faut se rendre sur l’URL «  /#/setup  », et créer un nouvel utilisateur : 
 
@@ -33,7 +37,7 @@ Pour créer un nouvel utilisateur, il faut se rendre sur l’URL «  /#/setup  �
 Ensuite retourner sur la page d’accueil et rentrez vos identifiants. 
 
 
-### **5.	APPELS / ROUTES**
+### **4.	APPELS / ROUTES**
 
 |URL|	id|            	Détails|
 |:-:|:-:|:-:|
