@@ -21,8 +21,7 @@ Au niveau des tags, on pourra éditer et créer des tags et de les lier à un ar
 Une barre de recherche est aussi disponible avec la possibilité de rechercher des articles ainsi que des tags. 
 Une création d’utilisateur pour se connecter à l’API, on pourra plus tard dans l’interface Admin, rajouter un utilisateur ou en modifier.
 
-
-
+![Schema](https://user-images.githubusercontent.com/26253939/176963306-27a5cfdd-52d0-44a8-aff3-e7a58273cce7.png)
 
 
 ### **4. AUTHENTIFICATION**
