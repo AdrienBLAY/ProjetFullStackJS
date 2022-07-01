@@ -15,7 +15,7 @@
 |1.0|	29/06/2022|	Première version
 
 ### **3. PRÉSENTATION DE L’API** 
-Notre API est un outil qui permet de créer différents articles internet, de les ranger avec des tags (topics) eet de pouvoir les gérer grâce à un utilisateur créé auparavant. 
+Notre API est un outil qui permet de créer différents articles internet, de les ranger avec des tags (topics) et de pouvoir les gérer grâce à un utilisateur créé auparavant. 
 Il y a la possibilité de créer, de modifier, de voir l’historique et de voir tous les articles.
 Au niveau des tags, on pourra éditer et créer des tags et de les lier à un article. 
 Une barre de recherche est aussi disponible avec la possibilité de rechercher des articles ainsi que des tags. 
