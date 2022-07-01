@@ -1,6 +1,6 @@
 {
   "name": "React_Node_App",
-  "version": "0.2.3",
+  "version": "0.0.1",
   "description": "Wiki projet avec Adrien Blay et Jérôme De Vivo",
   "main": "index.js",
   "scripts": {

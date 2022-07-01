@@ -82,7 +82,7 @@ class ViewArticle extends React.Component {
                 <h1 className="single-article-title">{this.state.article.title}
                 </h1>
                 <div className="single-article-meta">
-                  Dernière mise à jour le {new Date(this.state.article.updated_at.replace(' ','T')).toDateString()}
+                  Dernière mise à jour le {new Date(article.updated_at).getDay()}/{new Date(article.updated_at).getMonth()}/{new Date(article.updated_at).getFullYear()}
               </div>
             </div>
             <div className="single-article-body"

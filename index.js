@@ -11,7 +11,6 @@ var fs = require('fs');
 var apiRoutes = express.Router();
 var apiRoutesAdmin = express.Router();
 var jwt = require('jsonwebtoken');
-var misc = require('./misc.js');
 var config = require('./config');
 
 process.env.PORT = process.env.PORT || 5000;
