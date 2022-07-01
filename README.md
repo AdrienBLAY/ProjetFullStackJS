@@ -5,6 +5,8 @@
 - npm install 
 - npm start
 
+(Nous n'avons réalisé que trop tard qu'il ne fallait pas utiliser Mysql mais MongoDB, nous nous en excusons) 
+
 ## **Contrat d'interface**
 
 ### **1. VERSIONS**
