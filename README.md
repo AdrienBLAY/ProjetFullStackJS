@@ -28,6 +28,7 @@ Une création d’utilisateur pour se connecter à l’API, on pourra plus tard 
 L’accès à l’API est protégé et restreint aux utilisateurs authentifiés. L’authentification, de type « basique » s’effectue par l’intermédiaire d’un login et d’un mot de passe.
 Pour créer un nouvel utilisateur, il faut se rendre sur l’URL «  /#/setup  », et créer un nouvel utilisateur : 
 
+<img width="759" alt="Capture" src="https://user-images.githubusercontent.com/26253939/176963464-4ca7e242-f6a4-4f42-b033-b65c493e5c49.PNG">
 
 Ensuite retourner sur la page d’accueil et rentrez vos identifiants. 
 
