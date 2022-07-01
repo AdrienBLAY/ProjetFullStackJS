@@ -25,7 +25,7 @@ Une création d’utilisateur pour se connecter à l’API, on pourra plus tard 
 
 
 
-### **3. AUTHENTIFICATION**
+### **4. AUTHENTIFICATION**
 L’accès à l’API est protégé et restreint aux utilisateurs authentifiés. L’authentification, de type « basique » s’effectue par l’intermédiaire d’un login et d’un mot de passe.
 Pour créer un nouvel utilisateur, il faut se rendre sur l’URL «  /#/setup  », et créer un nouvel utilisateur : 
 
@@ -33,7 +33,7 @@ Pour créer un nouvel utilisateur, il faut se rendre sur l’URL «  /#/setup  �
 Ensuite retourner sur la page d’accueil et rentrez vos identifiants. 
 
 
-### **4.	APPELS / ROUTES**
+### **5.	APPELS / ROUTES**
 
 |URL|	id|            	Détails|
 |:-:|:-:|:-:|
@@ -48,7 +48,7 @@ Ensuite retourner sur la page d’accueil et rentrez vos identifiants.
 |/#/search	|	|Pour faire des recherches (topic, article)
 |/#/setup	|	|Pour créer un utilisateur
 
-### **5.	LISTE DES DONNÉES**
+### **6.	LISTE DES DONNÉES**
 Il y a quatre tables : 
 -	archives :  id / article_id / title / body / updated_at / user_id / what_changed
 -	articles : id / title / body / created_at / updated_at / topic_id / user_id / what_changed
